@@ -1,2 +1,2 @@
-# angular-spring
-Projeto para estudos em Angular + Spring
+# Angular + Spring
+Projeto fullstack para estudos em Angular com Spring
